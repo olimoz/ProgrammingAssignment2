@@ -45,7 +45,10 @@ makeCacheMatrix <- function(x = matrix())
   }
   
   ## get method, simply returns contents of matrix
-  get <- function() x
+  get <- function() 
+  {
+    x
+  }
   
   ## setinv method, simply sets the property 'inv' to whatever is provided in the args (ie newinv). 
   ## Does NOT test for correctness of inverse matrix
