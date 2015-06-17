@@ -1,0 +1,9 @@
+The following SSH key was added to your account:
+
+GitHub for Windows - vdu101
+89:5e:46:84:6d:d7:e0:ea:ae:32:5c:be:bd:fc:93:66
+
+If you believe this key was added in error, you can remove the key and disable
+access at the following location:
+
+https://github.com/settings/ssh
